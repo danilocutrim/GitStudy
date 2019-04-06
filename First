@@ -6,7 +6,17 @@ Trabalhando com algumas ferramentas úteis para projetos em grupo
 - git pull
 - git remote -v
 
+
+
+
+Tópico: Conflitos
+-Quando os mesmos arquivos possuem as mesmas linhas editadas com informações diferentes. 
+
+O Git identifica o conflito e aguarda a solução.
+
 A função "git push" não pode ser utilizada quanto temos conflito. 
 Para resolver, devemos apagar as linhas de demarcação e fazer um novo commit. 
 ***NÃO É A MELHOR MANEIRA DE RESOLVER UM CONFLITO***
 Veremos isso mais a frente. 
+
+
