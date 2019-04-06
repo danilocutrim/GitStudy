@@ -6,4 +6,11 @@ Trabalhando com algumas ferramentas úteis para projetos em grupo
 - git pull
 - git remote -v
 
+Tópico: Conflitos
+-Quando os mesmos arquivos possuem as mesmas linhas editadas com informações diferentes. 
+
+O Git identifica o conflito e aguarda a solução.
+
+
+
 
