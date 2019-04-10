@@ -19,6 +19,12 @@ Para resolver, devemos apagar as linhas de demarcação e fazer um novo commit.
 ***NÃO É A MELHOR MANEIRA DE RESOLVER UM CONFLITO***
 Veremos isso mais a frente. 
 
+
 Tópico: Rebase
+Observações sobre tópico Rebase
 
 No Rebase, seus commits criados na branch master após a criação de uma branch nova são removidos temporariamente e então os commits da nova branch são aplicados na branch master, logo após o commit temporariamente removido, volta a frente dos ultimos aplicados na branch master. 
+Pode acontecer conflitos que serão resolvidos a cada commit
+-Não cria o commit de merge
+-Muda o histórico
+
